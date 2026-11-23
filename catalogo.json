@@ -1,6 +1,6 @@
+
 {
   "versao_catalogo": 1,
-  "pacotes": [],
   "faixas_etarias": [
     {
       "id": "ate_16",
@@ -9,6 +9,16 @@
     {
       "id": "17_mais",
       "nome": "A partir de 17 anos"
+    }
+  ],
+  "pacotes": [
+    {
+      "id": "C1_P002",
+      "faixa_etaria": "ate_16",
+      "numero": 2,
+      "quantidade_perguntas": 500,
+      "arquivo": "pacotes/C1_P002.json",
+      "experimental": true
     }
   ]
 }
