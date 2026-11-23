@@ -1,4 +1,14 @@
 {
   "versao_catalogo": 1,
-  "pacotes": []
+  "pacotes": [],
+  "faixas_etarias": [
+    {
+      "id": "ate_16",
+      "nome": "Até 16 anos"
+    },
+    {
+      "id": "17_mais",
+      "nome": "A partir de 17 anos"
+    }
+  ]
 }
